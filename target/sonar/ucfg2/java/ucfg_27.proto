@@ -1,0 +1,41 @@
+
+bcom.pedro.usuariosservice.service.UsuarioService#findByCpfCnpj(Ljava/lang/String;)Ljava/util/List;•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7 7(&"paramAnnotations*ó
+paramAnnotations•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7& 7(6Ù
+Ò
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java6 6(
+%2"
+__annotate*
+java.lang.Override*
+
+cpfCnpjjava.lang.Stringﬁ
+€
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7. 7(5
+cpfCnpjjava.lang.String"__annotation*
+
+%2*
+1*›
+1•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7A 7(Rº
+π
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7A 7(R<
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepository≠™
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7A 7(i
+%1java.util.List"hcom.pedro.usuariosservice.repository.UsuarioRepository#findByCpfCnpj(Ljava/lang/String;)Ljava/util/List;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*
+
+cpfCnpjjava.lang.String2!findByCpfCnpj(Ljava/lang/String;)"¿
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7: 7(j
+
+%1java.util.List:
+cpfCnpjjava.lang.StringB42
+0com.pedro.usuariosservice.service.UsuarioService
