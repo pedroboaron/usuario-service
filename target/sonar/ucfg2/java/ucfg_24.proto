@@ -1,0 +1,41 @@
+
+âcom.pedro.usuariosservice.service.UsuarioService#save(Lcom/pedro/usuariosservice/model/Usuario;)Lcom/pedro/usuariosservice/model/Usuario;•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java   ("paramAnnotations*≈
+paramAnnotations•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java   ((ã
+à
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java (
+%2"
+__annotate*
+java.lang.Override*4
+2
+usuario'com.pedro.usuariosservice.model.Usuarioı
+Ú
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java    ('2
+usuario'com.pedro.usuariosservice.model.Usuario"__annotation*
+
+%2*
+1*∆
+1•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java! !( º
+π
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java! !( <
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepository£†
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java! !(.
+%1S"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*4
+2
+usuario'com.pedro.usuariosservice.model.Usuario2save(Ljava/lang/Object;)"≥
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java! !(/	
+
+%1S:2
+usuario'com.pedro.usuariosservice.model.UsuarioB42
+0com.pedro.usuariosservice.service.UsuarioService

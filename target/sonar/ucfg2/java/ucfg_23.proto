@@ -1,0 +1,41 @@
+
+äcom.pedro.usuariosservice.service.UsuarioService#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java ( "paramAnnotations*…
+paramAnnotations•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java  (3ç
+ä
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java (
+%2"
+__annotate*
+java.lang.Override*6
+4
+pageable(org.springframework.data.domain.Pageable˜
+Ù
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java* (24
+pageable(org.springframework.data.domain.Pageable"__annotation*
+
+%2*
+1*›	
+1•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java ( º
+π
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java ( <
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepositoryóî
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java (2*
+%1$org.springframework.data.domain.Page"êcom.pedro.usuariosservice.repository.UsuarioRepository#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*6
+4
+pageable(org.springframework.data.domain.Pageable23findAll(Lorg/springframework/data/domain/Pageable;)"÷
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java (3,
+*
+%1$org.springframework.data.domain.Page:4
+pageable(org.springframework.data.domain.PageableB42
+0com.pedro.usuariosservice.service.UsuarioService

@@ -1,0 +1,21 @@
+
+Jcom.pedro.usuariosservice.service.UsuarioService#findAll()Ljava/util/List;•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java ( "1*é
+1•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java ( º
+π
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java ( <
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepositoryﬁ€
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java (*
+%1java.util.List"Pcom.pedro.usuariosservice.repository.UsuarioRepository#findAll()Ljava/util/List;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository2	findAll()"¿
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java (+
+
+%1java.util.ListB42
+0com.pedro.usuariosservice.service.UsuarioService

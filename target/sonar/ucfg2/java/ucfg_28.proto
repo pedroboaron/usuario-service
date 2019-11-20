@@ -1,0 +1,41 @@
+
+wcom.pedro.usuariosservice.service.UsuarioService#findById(Ljava/lang/Integer;)Lcom/pedro/usuariosservice/model/Usuario;•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java: :("paramAnnotations*è
+paramAnnotations•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java: :('
+Ì
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java9 9(
+%2"
+__annotate*
+java.lang.Override*
+
+idjava.lang.Integer⁄
+◊
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java:$ :(&
+idjava.lang.Integer"__annotation*
+
+%2*
+1*ú	
+1•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java:1 :(Bº
+π
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java:1 :(B<
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepository”–
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java:1 :(O-
+%1'com.pedro.usuariosservice.model.Usuario"}com.pedro.usuariosservice.repository.UsuarioRepository#findById(Ljava/lang/Integer;)Lcom/pedro/usuariosservice/model/Usuario;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*
+
+idjava.lang.Integer2findById(Ljava/lang/Integer;)"Ÿ
+•
+öC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java:* :(P/
+-
+%1'com.pedro.usuariosservice.model.Usuario:
+idjava.lang.IntegerB42
+0com.pedro.usuariosservice.service.UsuarioService

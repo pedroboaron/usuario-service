@@ -1,0 +1,17 @@
+
+hcom.pedro.usuariosservice.event.RecursoCriadoEvent#getResponse()Ljavax/servlet/http/HttpServletResponse;ß
+úC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (*"1*¥
+1ß
+úC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (ß
+§
+ß
+úC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (,
+%0&javax.servlet.http.HttpServletResponse"__id*D*B4
+2com.pedro.usuariosservice.event.RecursoCriadoEvent"
+
+response"⁄
+ß
+úC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (.
+,
+%0&javax.servlet.http.HttpServletResponseB64
+2com.pedro.usuariosservice.event.RecursoCriadoEvent
