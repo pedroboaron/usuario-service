@@ -1,17 +1,16 @@
 
-hcom.pedro.usuariosservice.event.RecursoCriadoEvent#getResponse()Ljavax/servlet/http/HttpServletResponse;§
-œC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (*"1*´
-1§
-œC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (§
-¤
-§
-œC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (,
-%0&javax.servlet.http.HttpServletResponse"__id*D*B4
-2com.pedro.usuariosservice.event.RecursoCriadoEvent"
-
-response"Ú
-§
-œC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java (.
-,
-%0&javax.servlet.http.HttpServletResponseB64
+Mcom.pedro.usuariosservice.event.RecursoCriadoEvent#getId()Ljava/lang/Integer;¦
+›C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java ("1*
+1¦
+›C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java$ (&‹
+ˆ
+¦
+›C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java$ (&
+%0java.lang.Integer"__id*>*<4
+2com.pedro.usuariosservice.event.RecursoCriadoEvent"
+id"Ä
+¦
+›C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\event\RecursoCriadoEvent.java ('
+
+%0java.lang.IntegerB64
 2com.pedro.usuariosservice.event.RecursoCriadoEvent

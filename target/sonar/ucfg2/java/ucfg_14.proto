@@ -1,85 +1,85 @@
 
-ëcom.pedro.usuariosservice.controller.UsuarioController#findByEmail(Ljava/lang/String;Ljava/lang/String;)Lorg/springframework/http/ResponseEntity;´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java# (."paramAnnotations*è
-paramAnnotations´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java. (xò
-ï
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java (
+ìcom.pedro.usuariosservice.controller.UsuarioController#findBycpfCnpj(Ljava/lang/String;Ljava/lang/String;)Lorg/springframework/http/ResponseEntity;™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java"# "(0"paramAnnotations*é
+paramAnnotations™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java"0 "(~ô
+ñ
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java! !(
 %3"
 __annotate*64
-2org.springframework.web.bind.annotation.GetMapping*
-
-emailjava.lang.Stringö
-ó
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java/ (E
+2org.springframework.web.bind.annotation.GetMapping*
+
+cpfCnpjjava.lang.Stringõ
+ò
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java"1 "(I
 %4"
 __annotate*86
-4org.springframework.web.bind.annotation.RequestParam*
-
-emailjava.lang.StringÍ
-Á
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.javaM (R
-emailjava.lang.String"__annotation*
+4org.springframework.web.bind.annotation.RequestParam*
+
+cpfCnpjjava.lang.StringÎ
+Ë
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java"Q "(X
+cpfCnpjjava.lang.String"__annotation*
 
 %3*
 
-%4ò
-ï
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java (
+%4ó
+î
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java! !(
 %5"
 __annotate*64
 2org.springframework.web.bind.annotation.GetMapping*
 
-senhajava.lang.Stringö
-ó
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.javaT (j
+senhajava.lang.Stringô
+ñ
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java"Z "(p
 %6"
 __annotate*86
 4org.springframework.web.bind.annotation.RequestParam*
 
-senhajava.lang.StringÍ
-Á
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.javar (w
+senhajava.lang.StringÈ
+Ê
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java"x "(}
 senhajava.lang.String"__annotation*
 
 %5*
 
 %6*
-1*ß
-1´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java (ø
-º
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java! (/6
+1*®
+1™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java# #(æ
+ª
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java#! #(/6
 %00com.pedro.usuariosservice.service.UsuarioService"__id*N*L8
 6com.pedro.usuariosservice.controller.UsuarioController"
-usuarioService•¢
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java! (P-
-%1'com.pedro.usuariosservice.model.Usuario"ìcom.pedro.usuariosservice.service.UsuarioService#findByEmailAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;*8
+usuarioService™ß
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java#! #(T-
+%1'com.pedro.usuariosservice.model.Usuario"ïcom.pedro.usuariosservice.service.UsuarioService#findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;*8
 6
-%00com.pedro.usuariosservice.service.UsuarioService*
+%00com.pedro.usuariosservice.service.UsuarioService*
+
+cpfCnpjjava.lang.String*
 
-emailjava.lang.String*
-
-senhajava.lang.String29findByEmailAndSenha(Ljava/lang/String;Ljava/lang/String;)ß
-§
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java (Q-
+senhajava.lang.String2;findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)¶
+£
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java# #(U-
 %2'org.springframework.http.ResponseEntity"gorg.springframework.http.ResponseEntity#ok(Ljava/lang/Object;)Lorg/springframework/http/ResponseEntity;*+")
 'org.springframework.http.ResponseEntity*/
 -
-%1'com.pedro.usuariosservice.model.Usuario"ﬂ
-´
-†C:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java (R/
+%1'com.pedro.usuariosservice.model.Usuario"ﬁ
+™
+üC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\controller\UsuarioController.java# #(V/
 -
-%2'org.springframework.http.ResponseEntity:
-emailjava.lang.String:
+%2'org.springframework.http.ResponseEntity:
+cpfCnpjjava.lang.String:
 senhajava.lang.StringB:8
 6com.pedro.usuariosservice.controller.UsuarioController

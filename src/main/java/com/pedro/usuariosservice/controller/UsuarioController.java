@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletResponse;
 import javax.validation.Valid;
 
+
+
 @RestController
 @RequestMapping("/")
 public class UsuarioController {
@@ -42,8 +44,8 @@ public class UsuarioController {
 
     @PutMapping
     public ResponseEntity<Usuario> alterarPessoa(@RequestParam("id") Integer id,
-                                                @Valid @RequestBody Usuario usuario,
-                                                HttpServletResponse response) throws Exception {
+                                                 @Valid @RequestBody Usuario usuario,
+                                                 HttpServletResponse response) throws Exception {
 
         Usuario save = this.usuarioService.update(id, usuario);
         publisher.publishEvent(new RecursoCriadoEvent(this, response, save.getId()));
@@ -60,5 +62,4 @@ public class UsuarioController {
         publisher.publishEvent(new RecursoCriadoEvent(this, response, save.getId()));
         return ResponseEntity.ok(save);
     }
-
 }

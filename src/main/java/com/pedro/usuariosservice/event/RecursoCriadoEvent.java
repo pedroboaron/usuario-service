@@ -8,7 +8,6 @@ public class RecursoCriadoEvent extends ApplicationEvent {
 
     private final Integer id;
     private transient HttpServletResponse response;
-    private String numero;
 
     public RecursoCriadoEvent(Object source, HttpServletResponse response, Integer id) {
         super(source);

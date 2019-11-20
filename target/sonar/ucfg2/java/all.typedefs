@@ -211,18 +211,19 @@ toUpper(C)java.net.URI#toUpper(C)IW
 &javax.servlet.http.HttpServletResponsejavax.servlet.ServletResponsejava.lang.Objectä
 /setTrailerFields(Ljava/util/function/Supplier;)Wjavax.servlet.http.HttpServletResponse#setTrailerFields(Ljava/util/function/Supplier;)Vl
 getTrailerFields()Vjavax.servlet.http.HttpServletResponse#getTrailerFields()Ljava/util/function/Supplier;E
-1com.pedro.usuariosservice.service.IUsuarioServicejava.lang.Objectﬁ
+1com.pedro.usuariosservice.service.IUsuarioServicejava.lang.ObjectÜ
 0com.pedro.usuariosservice.service.UsuarioService1com.pedro.usuariosservice.service.IUsuarioServicejava.lang.ObjectΩ
 /save(Lcom/pedro/usuariosservice/model/Usuario;)âcom.pedro.usuariosservice.service.UsuarioService#save(Lcom/pedro/usuariosservice/model/Usuario;)Lcom/pedro/usuariosservice/model/Usuario;W
-	findAll()Jcom.pedro.usuariosservice.service.UsuarioService#findAll()Ljava/util/List;É
-findByEmail(Ljava/lang/String;)`com.pedro.usuariosservice.service.UsuarioService#findByEmail(Ljava/lang/String;)Ljava/util/List;—
+	findAll()Jcom.pedro.usuariosservice.service.UsuarioService#findAll()Ljava/util/List;ú
+findByEmail(Ljava/lang/String;)ycom.pedro.usuariosservice.service.UsuarioService#findByEmail(Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;—
 9findByEmailAndSenha(Ljava/lang/String;Ljava/lang/String;)ìcom.pedro.usuariosservice.service.UsuarioService#findByEmailAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;F
 <init>():com.pedro.usuariosservice.service.UsuarioService#<init>()V’
-;findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)ïcom.pedro.usuariosservice.service.UsuarioService#findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;á
-!findByCpfCnpj(Ljava/lang/String;)bcom.pedro.usuariosservice.service.UsuarioService#findByCpfCnpj(Ljava/lang/String;)Ljava/util/List;¬
+;findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)ïcom.pedro.usuariosservice.service.UsuarioService#findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;†
+!findByCpfCnpj(Ljava/lang/String;){com.pedro.usuariosservice.service.UsuarioService#findByCpfCnpj(Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;¬
 3findAll(Lorg/springframework/data/domain/Pageable;)äcom.pedro.usuariosservice.service.UsuarioService#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;ò
-findById(Ljava/lang/Integer;)wcom.pedro.usuariosservice.service.UsuarioService#findById(Ljava/lang/Integer;)Lcom/pedro/usuariosservice/model/Usuario;Á
-Dupdate(Ljava/lang/Integer;Lcom/pedro/usuariosservice/model/Usuario;)ûcom.pedro.usuariosservice.service.UsuarioService#update(Ljava/lang/Integer;Lcom/pedro/usuariosservice/model/Usuario;)Lcom/pedro/usuariosservice/model/Usuario;
+findById(Ljava/lang/Integer;)wcom.pedro.usuariosservice.service.UsuarioService#findById(Ljava/lang/Integer;)Lcom/pedro/usuariosservice/model/Usuario;t
+deleteById(Ljava/lang/Integer;)Qcom.pedro.usuariosservice.service.UsuarioService#deleteById(Ljava/lang/Integer;)VÁ
+Dupdate(Ljava/lang/Integer;Lcom/pedro/usuariosservice/model/Usuario;)ûcom.pedro.usuariosservice.service.UsuarioService#update(Ljava/lang/Integer;Lcom/pedro/usuariosservice/model/Usuario;)Lcom/pedro/usuariosservice/model/Usuario;ú
 'com.pedro.usuariosservice.model.Usuariojava.lang.Objecte
 setEmail(Ljava/lang/String;)Ecom.pedro.usuariosservice.model.Usuario#setEmail(Ljava/lang/String;)Vi
 setCpfCnpj(Ljava/lang/String;)Gcom.pedro.usuariosservice.model.Usuario#setCpfCnpj(Ljava/lang/String;)VR
@@ -230,9 +231,7 @@ Dupdate(Ljava/lang/Integer;Lcom/pedro/usuariosservice/model/Usuario;)ûcom.pedr
 getSenha()Dcom.pedro.usuariosservice.model.Usuario#getSenha()Ljava/lang/String;M
 getId()Bcom.pedro.usuariosservice.model.Usuario#getId()Ljava/lang/Integer;V
 getCpfCnpj()Fcom.pedro.usuariosservice.model.Usuario#getCpfCnpj()Ljava/lang/String;=
-<init>()1com.pedro.usuariosservice.model.Usuario#<init>()VR
-
-toString()Dcom.pedro.usuariosservice.model.Usuario#toString()Ljava/lang/String;c
+<init>()1com.pedro.usuariosservice.model.Usuario#<init>()Vc
 setNome(Ljava/lang/String;)Dcom.pedro.usuariosservice.model.Usuario#setNome(Ljava/lang/String;)VP
 	getNome()Ccom.pedro.usuariosservice.model.Usuario#getNome()Ljava/lang/String;R
 
@@ -248,7 +247,34 @@ getEmail()Dcom.pedro.usuariosservice.model.Usuario#getEmail()Ljava/lang/String;
 >org.springframework.data.repository.PagingAndSortingRepositoryjava.lang.Object2org.springframework.data.repository.CrudRepositoryT
 @org.springframework.data.repository.query.QueryByExampleExecutorjava.lang.ObjectÀ
 5org.springframework.data.jpa.repository.JpaRepository@org.springframework.data.repository.query.QueryByExampleExecutor>org.springframework.data.repository.PagingAndSortingRepositoryjava.lang.ObjectÅ
-6com.pedro.usuariosservice.repository.UsuarioRepositoryjava.lang.Object5org.springframework.data.jpa.repository.JpaRepository 
+6com.pedro.usuariosservice.repository.UsuarioRepositoryjava.lang.Object5org.springframework.data.jpa.repository.JpaRepository–
+java.util.Optionaljava.lang.ObjectL
+equals(Ljava/lang/Object;).java.util.Optional#equals(Ljava/lang/Object;)Z*
+	isEmpty()java.util.Optional#isEmpty()ZW
+of(Ljava/lang/Object;)=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;=
+
+toString()/java.util.Optional#toString()Ljava/lang/String;,
+
+<clinit>()java.util.Optional#<clinit>()V}
+*orElseThrow(Ljava/util/function/Supplier;)Ojava.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;o
+"map(Ljava/util/function/Function;)Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;3
+get()*java.util.Optional#get()Ljava/lang/Object;ú
+BifPresentOrElse(Ljava/util/function/Consumer;Ljava/lang/Runnable;)Vjava.util.Optional#ifPresentOrElse(Ljava/util/function/Consumer;Ljava/lang/Runnable;)V,
+
+hashCode()java.util.Optional#hashCode()IL
+<init>(Ljava/lang/Object;).java.util.Optional#<init>(Ljava/lang/Object;)Vh
+(ifPresent(Ljava/util/function/Consumer;)<java.util.Optional#ifPresent(Ljava/util/function/Consumer;)V]
+orElse(Ljava/lang/Object;)?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;m
+!or(Ljava/util/function/Supplier;)Hjava.util.Optional#or(Ljava/util/function/Supplier;)Ljava/util/Optional;g
+ofNullable(Ljava/lang/Object;)Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;(
+<init>()java.util.Optional#<init>()VC
+orElseThrow()2java.util.Optional#orElseThrow()Ljava/lang/Object;y
+(orElseGet(Ljava/util/function/Supplier;)Mjava.util.Optional#orElseGet(Ljava/util/function/Supplier;)Ljava/lang/Object;w
+&flatMap(Ljava/util/function/Function;)Mjava.util.Optional#flatMap(Ljava/util/function/Function;)Ljava/util/Optional;9
+empty().java.util.Optional#empty()Ljava/util/Optional;w
+&filter(Ljava/util/function/Predicate;)Mjava.util.Optional#filter(Ljava/util/function/Predicate;)Ljava/util/Optional;.
+isPresent()java.util.Optional#isPresent()Z@
+stream()4java.util.Optional#stream()Ljava/util/stream/Stream; 
 java.lang.Throwablejava.lang.Objectjava.io.Serializable;
 printStackTrace()&java.lang.Throwable#printStackTrace()V}
 2validateSuppressedExceptionsList(Ljava/util/List;)Gjava.lang.Throwable#validateSuppressedExceptionsList(Ljava/util/List;)I¡

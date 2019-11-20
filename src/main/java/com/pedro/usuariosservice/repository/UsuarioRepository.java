@@ -10,17 +10,15 @@ import java.util.List;
 
 
 @Repository
-public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
+public interface UsuarioRepository extends JpaRepository<Usuario, Integer> {
 
     List<Usuario> findAll();
 
     Page<Usuario> findAll(Pageable pageable);
 
-    List<Usuario> findByEmail(String email);
+    Usuario findByEmail(String email);
 
-    List<Usuario> findByCpfCnpj(String cpfCnpj);
-
-    Usuario findById(Integer id);
+    Usuario findByCpfCnpj(String cpfCnpj);
 
     Usuario findByEmailAndSenha(String email, String senha);
 

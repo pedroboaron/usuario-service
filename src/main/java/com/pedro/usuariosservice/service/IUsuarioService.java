@@ -16,13 +16,15 @@ public interface IUsuarioService {
 
     Usuario update(Integer id, Usuario usuario) throws Exception;
 
-    List<Usuario> findByEmail(String email);
+    Usuario findByEmail(String email);
 
-    List<Usuario> findByCpfCnpj(String cpfCnpj);
+    Usuario findByCpfCnpj(String cpfCnpj);
 
-    Usuario findById(Integer id);
+    void deleteById(Integer id);
 
     Usuario findByEmailAndSenha(String email, String senha);
 
     Usuario findByCpfCnpjAndSenha(String cpfCnpj, String senha);
+
+    Usuario findById(Integer id);
 }

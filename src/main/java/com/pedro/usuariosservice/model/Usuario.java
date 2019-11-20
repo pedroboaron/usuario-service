@@ -1,6 +1,10 @@
 package com.pedro.usuariosservice.model;
 
-import javax.persistence.*;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
@@ -69,20 +73,4 @@ public class Usuario {
         this.cpfCnpj = cpfCnpj;
     }
 
-    // Creating toString
-    @Override
-    public String toString()
-    {
-        return "Usuario [id="
-                + id
-                + ", nome="
-                + nome
-                + ", senha="
-                + senha
-                +", email="
-                +email
-                +", cpfCnpj="
-                +cpfCnpj
-                + "]";
-    }
 }
