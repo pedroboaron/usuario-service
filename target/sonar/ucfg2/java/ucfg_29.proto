@@ -1,0 +1,58 @@
+
+ïcom.pedro.usuariosservice.service.UsuarioService#findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaF F(("paramAnnotations*Ê
+paramAnnotations§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaF( F(FÛ
+
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaE E(
+%2"
+__annotate*
+java.lang.Override*
+
+cpfCnpjjava.lang.String›
+⁄
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaF0 F(7
+cpfCnpjjava.lang.String"__annotation*
+
+%2Ò
+Ó
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaE E(
+%3"
+__annotate*
+java.lang.Override*
+
+senhajava.lang.String€
+ÿ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaF@ F(E
+senhajava.lang.String"__annotation*
+
+%3*
+1*ˆ	
+1§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaG G( ª
+∏
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaG G( <
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepository∞≠
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaG G(E-
+%1'com.pedro.usuariosservice.model.Usuario"õcom.pedro.usuariosservice.repository.UsuarioRepository#findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*
+
+cpfCnpjjava.lang.String*
+
+senhajava.lang.String2;findByCpfCnpjAndSenha(Ljava/lang/String;Ljava/lang/String;)"ÿ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaG G(F/
+-
+%1'com.pedro.usuariosservice.model.Usuario:
+cpfCnpjjava.lang.String:
+senhajava.lang.StringB42
+0com.pedro.usuariosservice.service.UsuarioService

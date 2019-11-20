@@ -1,0 +1,53 @@
+
+wcom.pedro.usuariosservice.service.UsuarioService#findById(Ljava/lang/Integer;)Lcom/pedro/usuariosservice/model/Usuario;§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaK K("paramAnnotations*å
+paramAnnotations§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaK K('Ô
+Ï
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaJ J(
+%3"
+__annotate*
+java.lang.Override*
+
+idjava.lang.IntegerŸ
+÷
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaK$ K(&
+idjava.lang.Integer"__annotation*
+
+%3*
+1*º
+1§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaL& L(*ª
+∏
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaL& L(<<
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepository¢ü
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaL& L(I
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*
+
+idjava.lang.Integer2findById(Ljava/lang/Object;)Ì
+Í
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaL L(J
+	resultadojava.util.Optional"__id*
+
+%1java.util.Optional·ﬁ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaM M(%-
+%2'com.pedro.usuariosservice.model.Usuario"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*!
+
+	resultadojava.util.Optional*
+""2orElse(Ljava/lang/Object;)"ÿ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaM M(&/
+-
+%2'com.pedro.usuariosservice.model.Usuario:
+idjava.lang.IntegerB42
+0com.pedro.usuariosservice.service.UsuarioService

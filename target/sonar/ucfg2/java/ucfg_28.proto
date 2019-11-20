@@ -1,0 +1,58 @@
+
+ìcom.pedro.usuariosservice.service.UsuarioService#findByEmailAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaA A(&"paramAnnotations*‚
+paramAnnotations§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaA& A(BÒ
+Ó
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java@ @(
+%2"
+__annotate*
+java.lang.Override*
+
+emailjava.lang.String€
+ÿ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaA. A(3
+emailjava.lang.String"__annotation*
+
+%2Ò
+Ó
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java@ @(
+%3"
+__annotate*
+java.lang.Override*
+
+senhajava.lang.String€
+ÿ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaA< A(A
+senhajava.lang.String"__annotation*
+
+%3*
+1*	
+1§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaB B( ª
+∏
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaB B( <
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepository™ß
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaB B(A-
+%1'com.pedro.usuariosservice.model.Usuario"ôcom.pedro.usuariosservice.repository.UsuarioRepository#findByEmailAndSenha(Ljava/lang/String;Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*
+
+emailjava.lang.String*
+
+senhajava.lang.String29findByEmailAndSenha(Ljava/lang/String;Ljava/lang/String;)"ÿ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.javaB B(B/
+-
+%1'com.pedro.usuariosservice.model.Usuario:
+emailjava.lang.String:
+senhajava.lang.StringB42
+0com.pedro.usuariosservice.service.UsuarioService

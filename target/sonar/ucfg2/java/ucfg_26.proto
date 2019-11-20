@@ -1,0 +1,41 @@
+
+{com.pedro.usuariosservice.service.UsuarioService#findByCpfCnpj(Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java8 8( "paramAnnotations*î
+paramAnnotations§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java8  8(0Û
+
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java7 7(
+%2"
+__annotate*
+java.lang.Override*
+
+cpfCnpjjava.lang.String›
+⁄
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java8( 8(/
+cpfCnpjjava.lang.String"__annotation*
+
+%2*
+1*•	
+1§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java8; 8(Lª
+∏
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java8; 8(L<
+%06com.pedro.usuariosservice.repository.UsuarioRepository"__id*K*I2
+0com.pedro.usuariosservice.service.UsuarioService"
+usuarioRepositoryﬂ‹
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java8; 8(c-
+%1'com.pedro.usuariosservice.model.Usuario"Åcom.pedro.usuariosservice.repository.UsuarioRepository#findByCpfCnpj(Ljava/lang/String;)Lcom/pedro/usuariosservice/model/Usuario;*>
+<
+%06com.pedro.usuariosservice.repository.UsuarioRepository*
+
+cpfCnpjjava.lang.String2!findByCpfCnpj(Ljava/lang/String;)"ÿ
+§
+ôC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\usuarios-service\src\main\java\com\pedro\usuariosservice\service\UsuarioService.java84 8(d/
+-
+%1'com.pedro.usuariosservice.model.Usuario:
+cpfCnpjjava.lang.StringB42
+0com.pedro.usuariosservice.service.UsuarioService

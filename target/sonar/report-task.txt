@@ -1,0 +1,7 @@
+organization=pedroboaron
+projectKey=pedroboaron_usuario-service
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.2823
+dashboardUrl=https://sonarcloud.io/dashboard?id=pedroboaron_usuario-service
+ceTaskId=AW6KsQG8AFGNt87KEpYD
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW6KsQG8AFGNt87KEpYD

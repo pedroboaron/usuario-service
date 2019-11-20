@@ -1,0 +1,8 @@
+com\pedro\usuariosservice\event\listener\RecursoCriadoListener.class
+com\pedro\usuariosservice\model\Usuario.class
+com\pedro\usuariosservice\service\UsuarioService.class
+com\pedro\usuariosservice\repository\UsuarioRepository.class
+com\pedro\usuariosservice\service\IUsuarioService.class
+com\pedro\usuariosservice\controller\UsuarioController.class
+com\pedro\usuariosservice\UsuariosServiceApplication.class
+com\pedro\usuariosservice\event\RecursoCriadoEvent.class
